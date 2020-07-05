@@ -1,1 +1,1 @@
-git is a version controller
+git is a distribute version controller
